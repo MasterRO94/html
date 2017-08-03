@@ -48,7 +48,7 @@
             ],
             "aliases": {
                 "Html" : "Collective\\Html\\HtmlFacade",
-                "Form" : "Collective\\Html\\FormFacade",
+                "Form" : "Collective\\Html\\FormFacade"
             }
         }
     },
