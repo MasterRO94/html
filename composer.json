@@ -46,10 +46,10 @@
             "providers": [
                 "Collective\\Html\\HtmlServiceProvider"
             ],
-            "aliases": [
+            "aliases": {
                 "Html" : "Collective\\Html\\HtmlFacade",
                 "Form" : "Collective\\Html\\FormFacade",
-            ]
+            }
         }
     },
     "minimum-stability": "dev",
